@@ -3,6 +3,7 @@ summary: "Hubs that link to every OpenClaw doc"
 read_when:
   - You want a complete map of the documentation
 ---
+
 # Docs hubs
 
 Use these hubs to discover every page, including deep dives and reference docs that don’t appear in the left nav.
@@ -163,6 +164,8 @@ Use these hubs to discover every page, including deep dives and reference docs t
 - [Templates: BOOTSTRAP](/reference/templates/BOOTSTRAP)
 - [Templates: HEARTBEAT](/reference/templates/HEARTBEAT)
 - [Templates: IDENTITY](/reference/templates/IDENTITY)
+- [Templates: Local observability](/reference/templates/OBSERVABILITY.local)
+- [Templates: Local observability spec](/reference/templates/OBSERVABILITY.local.spec)
 - [Templates: SOUL](/reference/templates/SOUL)
 - [Templates: TOOLS](/reference/templates/TOOLS)
 - [Templates: USER](/reference/templates/USER)
